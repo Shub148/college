@@ -1,3 +1,4 @@
 # College
 This is my first git repository
-Author - Shubham Yadav
+<br>
+Author - <bl>Shubham Yadav</bl>
